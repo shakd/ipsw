@@ -1,6 +1,6 @@
 # IPSW Links by Version
 
-Foobar is a Python library for dealing with word pluralization.
+
 
 ## Usage
 
